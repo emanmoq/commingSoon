@@ -86,7 +86,7 @@ margin-top:180px;}
 img{
     width:100%;
 }
-@media(min-width:320px)and(max-width:767px){
+@media(min-width:320px)and (max-width:767px){
     .text p, .text p.txtArabic{
         font-size: 34px;
     }
@@ -96,8 +96,8 @@ img{
     .contact{
         float: left;
     }
-   
     body{
         background-repeat: repeat;
     }
+
 }
